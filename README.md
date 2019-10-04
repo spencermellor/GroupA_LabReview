@@ -1,4 +1,4 @@
-![Marvel Ciinmatic. This place was so cool!](/assets/images/marvel_banner.png "Marvel marvel_banner.png")
+![Marvel Ciinmatic. This place was so cool!](Documents/GroupA_LabReview/marvel_banner.png "All About MCU")
 
 # All About the MCU
 
